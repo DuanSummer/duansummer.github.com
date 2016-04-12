@@ -1,0 +1,35 @@
+﻿.para1 {
+    font-size: 22px;
+    color: #0ff;
+    text-align: center;
+    padding-left: 20px;
+}
+
+.para1 {
+    color: #f0f;
+    font-size: 44px;
+}
+.pictureWall {
+
+   
+}
+.picText {
+color:#fff;
+font-size:20px;
+}
+.picstyle {
+width:60%;
+height:60%;
+
+
+}
+p {
+    text-align: left;
+}
+
+div#content p.para1 {
+    font-size: 40px;
+    background-color:#090000;
+}
+
+
